@@ -1,0 +1,17 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "Interactive Console \u001b[A\u001b[BApp project using nodejs",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgar Avecilla",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
